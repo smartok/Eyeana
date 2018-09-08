@@ -285,7 +285,8 @@ overflow: hidden;
 }
 
 .section_title h2 {
-	text-align: start width: 141px;
+	text-align: start;
+	width: 141px;
 	height: 21px;
 	color: #1c1c1c;
 	font-family: "Russo One";
