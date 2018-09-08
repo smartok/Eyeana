@@ -1,0 +1,25 @@
+/*интегрируем переменние с цветами*/
+@import "colors"
+
+html
+ font-size: 14px
+
+body
+ background-color: $body-bg
+ font-family: 'Montserrat', sans-serif
+ color: $text-color-header
+
+.top_nav
+ background-color: $body-bg
+ padding: 15px
+ &_menu
+  list-style: none
+  padding: 0
+  display: flex
+  li
+   margin-right: 60px
+   a
+    text-decoration: none
+    color: $text-color-header
+    font-weight: 300
+
