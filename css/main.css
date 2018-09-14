@@ -263,17 +263,21 @@ blockquote::before {
  }
 
 .welcome {
-width: 333px;
-height: 70px;
-color: #f1f1f1;
-font-family: Montserrat;
-font-size: 60px;
-font-weight: 700;
-text-transform: uppercase;
-position: absolute;
-margin-top: -35px;
+	width: 333px;
+	height: 70px;
+	color: #DCDCDC;
+	font-family: Montserrat;
+	font-size: 60px;
+	font-weight: 700;
+	text-transform: uppercase;
+	position: absolute;
+	margin-top: -35px;
+	opacity: 0.25;
 }
 
+w::selection {
+background: transparent;
+}
 
 .section_title h2 {
 	text-align: start;
