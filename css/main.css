@@ -17,6 +17,7 @@ body {
 	margin: 0px;
 }
 
+
 .top_nav {
 	padding-left: 50px;
 	position: fixed;
@@ -236,7 +237,6 @@ blockquote::before {
 }
 
 .abt-left-thumb {
-	
 	display: block;
 	position: relative;
 	z-index: 1;
