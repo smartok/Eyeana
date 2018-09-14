@@ -372,6 +372,7 @@ background: transparent;
 
 .Web-Design_icon{
   float: left;
+  pointer-events: none;
 }
 .Web-Design_line{
   margin-top: 60px;
@@ -379,10 +380,12 @@ background: transparent;
   position: absolute;
   float: left;
   padding-left: 25px;
+  pointer-events: none;
   
 }
 .illustration_icon{
   float: left;
+  pointer-events: none;
 }
 .illustration_line{
   margin-top: 60px;
@@ -390,9 +393,11 @@ background: transparent;
   position: absolute;
   float: left;
   padding-left: 25px;
+  pointer-events: none;
 }
 .branding_icon{
  float: left;
+ pointer-events: none;
 }
 .branding_line{
  margin-top: 60px;
@@ -400,6 +405,7 @@ background: transparent;
  float: left;
  position: absolute;
  padding-left: 25px;
+ pointer-events: none;
 
 }
 
