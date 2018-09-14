@@ -226,7 +226,7 @@ blockquote::before {
 	background-color: #fff;
 	position: relative;
 	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-bottom: 180px;
 }
 
 .abt-left-thumb img{
@@ -338,6 +338,26 @@ background: transparent;
 	margin-bottom: 19px;
 }
 
+.my-skill {
+	text-align: center;
+	width: 1140px;
+	height: 26px;
+	color: #1c1c1c;
+	font-family: "Russo One";
+	font-size: 29px;
+	font-weight: 400;
+	
+}
+
+.line-under-skill {
+	text-align: center;
+	margin-left: 15px;
+	pointer-events: none;
+}
+
+.my-skill-title {
+	margin-bottom: 35px;
+}
 
 
 
