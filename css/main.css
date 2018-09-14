@@ -244,16 +244,6 @@ blockquote::before {
 }
 	
 
-
-.fa {
-    position: inherit;
-    font-family: fontawesome;
-	font-size: 16px;
-	color: #000;
-}
-
-
-
 .about_content p{
     font-size: 14px;
     font-weight: 400;
@@ -305,6 +295,34 @@ background: transparent;
     text-align: right;
 }
 
+.social-link h5{
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    font-size: 18px;
+    letter-spacing: 0;
+    font-weight: 600;
+    color: #222222;
+}
+
+.social-link a{
+    display: inline-block;
+    font-size: 15px;
+    color: #333333;
+    margin-right: 11px;
+}
+
+.social-link a:link{
+    color: #1b1b1b;
+}
+.social-link a:hover{
+    color: #c32323;
+}
+
+.grow:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
 
 .service-area {
 	background-color: #fff;
