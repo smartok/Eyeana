@@ -312,6 +312,14 @@ background: transparent;
 	position: relative;
 }
 
+.service-area h4 {
+ margin-left: 70px;
+}
+
+.service-area p{
+ margin-left: 70px;
+}
+
 .single-service {
 	padding: 0;
 	max-width: 720px;
@@ -324,6 +332,8 @@ background: transparent;
 	font-family: Montserrat;
 	font-size: 14px;
 	font-weight: 300;
+
+
 }
 
 .single-service img {
@@ -337,6 +347,7 @@ background: transparent;
 	letter-spacing: 0;
 	margin-bottom: 19px;
 }
+
 
 .my-skill {
 	text-align: center;
@@ -359,7 +370,38 @@ background: transparent;
 	margin-bottom: 35px;
 }
 
+.Web-Design_icon{
+  float: left;
+}
+.Web-Design_line{
+  margin-top: 60px;
+  text-align: center;
+  position: absolute;
+  float: left;
+  padding-left: 25px;
+  
+}
+.illustration_icon{
+  float: left;
+}
+.illustration_line{
+  margin-top: 60px;
+  text-align: center;
+  position: absolute;
+  float: left;
+  padding-left: 25px;
+}
+.branding_icon{
+ float: left;
+}
+.branding_line{
+ margin-top: 60px;
+ text-align: center;
+ float: left;
+ position: absolute;
+ padding-left: 25px;
 
+}
 
 
 @keyframes secdownmoving {
